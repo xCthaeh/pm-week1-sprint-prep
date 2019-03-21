@@ -81,9 +81,17 @@ header .logo {
 }
 
 
+.header-container{
+    display:flex;
+    justify-content: center;
+   
+}
 
-
-
+.header {
+    width: 900px;
+    display: flex;
+    justify-content: space-around;
+}
 
 
 
