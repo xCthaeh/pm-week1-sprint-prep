@@ -107,13 +107,21 @@ header .logo {
   height: 250px;
 }
 
+.body-container{
+    display:flex;
+    justify-content:center;
+    align-items:flex-end;
+    border: 3px solid red;
+    
+}
 
 
-
-
-
-
-
+.body-container2{
+    display: flex;
+    align-items: flex-end;
+    border: 3px solid red;
+   
+}
 
 
 
