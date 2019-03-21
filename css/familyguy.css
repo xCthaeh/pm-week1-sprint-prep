@@ -116,7 +116,7 @@ header .logo {
     display:flex;
     justify-content:center;
     align-items:flex-end;
-    border: 3px solid red;
+    border: 3px;
     padding: 10px 35px 10px 35px;
 }
 
@@ -124,7 +124,7 @@ header .logo {
 .body-container2{
     display: flex;
     align-items: flex-end;
-    border: 3px solid red;
+    border: 3px;
     padding: 10px 35px 10px 35px;
 }
 
